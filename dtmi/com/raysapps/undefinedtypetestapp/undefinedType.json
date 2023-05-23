@@ -1,0 +1,16 @@
+{
+  "@context": "dtmi:dtdl:context;2",
+  "@id": "dtmi:com:raysapps:undefinedTypeTestApp:undefinedType;1",
+  "@type": "Interface",
+  "displayName": "undefinedType",
+  "contents": [
+    {
+      "@type":  [
+        "Property",
+        "ChandraMohanRayaprol"
+      ],
+      "name": "temperature",
+      "schema": "double"
+    }
+  ]
+}

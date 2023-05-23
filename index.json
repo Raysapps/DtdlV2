@@ -50,6 +50,9 @@
     "dtmi:com:raysapps:RemoteMxchipApp:RemoteMxchipApp;1": {
       "displayName": "RemoteMxChipApp",
       "description": "IoT-RemoteMxChipApp"
+    },
+    "dtmi:com:raysapps:undefinedTypeTestApp:undefinedType;1": {
+      "displayName": "undefinedType"
     }
   },
   "version": "1.0"
