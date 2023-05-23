@@ -1,0 +1,18 @@
+{
+  "@context": "dtmi:dtdl:context;2",
+  "@id": "dtmi:com:raysapps:undefinedTypeTestApp:undefinedType;1",
+  "@type": "Interface",
+  "displayName": "undefinedType",
+  "contents": [
+    {
+      "@type":  [
+        "Property",
+        "ChandraMohanRayaprol"
+      ],
+      "name": "temperature",
+      "sir" :"This work is interesting, don't giveup we can together work and accomplish this",
+      "schema": "double"
+    }
+
+  ]
+}
