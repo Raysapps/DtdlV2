@@ -12,5 +12,6 @@
       "name": "temperature",
       "schema": "double"
     }
+
   ]
 }
